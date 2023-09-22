@@ -1,0 +1,26 @@
+#login{
+    width: 40vw;
+    padding: 20px;
+    margin: 100px auto;
+    border: 2px transparent #154a9a;
+    border-radius: 1%;
+    box-shadow: 20px 18px 25px -1px rgba(21,74,154,0.77);
+    text-shadow: #154a9a 0px 0px 1px;
+}
+/* mediaquerys */
+@media (max-width: 1200px){
+    #formulario{
+        width: 60vw;
+    }
+    #login{
+        width: 60vw;
+    }
+}
+@media (max-width: 800px){
+    #formulario{
+        width: 80vw;
+    }
+    #login{
+        width: 80vw;
+    }
+}

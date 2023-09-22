@@ -1,0 +1,8 @@
+#formulario{
+    margin: 110px auto;
+    width: 40vw;
+    padding: 15px;
+    border: 2px transparent #154a9a;
+    border-radius: 1%;
+    box-shadow: 20px 14px 25px 0px rgba(21,74,154,0.77);
+}
