@@ -9,17 +9,11 @@
 }
 /* mediaquerys */
 @media (max-width: 1200px){
-    #formulario{
-        width: 60vw;
-    }
     #login{
         width: 60vw;
     }
 }
 @media (max-width: 800px){
-    #formulario{
-        width: 80vw;
-    }
     #login{
         width: 80vw;
     }
