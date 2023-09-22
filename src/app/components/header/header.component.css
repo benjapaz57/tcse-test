@@ -1,0 +1,13 @@
+#header{
+    margin: 50px auto;
+}
+#header img{
+    width: 300px;
+}
+#text-header{
+    margin: auto;
+    background-color: #154a9aec;
+    padding: 15px;
+    border-radius: 10% 25% 10% 25%;
+    color: whitesmoke;
+}
